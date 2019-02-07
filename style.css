@@ -1,0 +1,44 @@
+body {
+  background-color:yellow;
+}
+
+h1 {
+  color:blue;
+  font-family:garamond;
+  background-color: pink;
+  border: 20px solid red;
+  padding: 20px;
+}
+
+p {
+  color:red;
+  background-color: white;
+  border: 5px solid black;
+  padding: 10px;
+}
+
+#highlight {
+  color: orange;
+  background-color: green;
+  border: 2px dashed green;
+}
+
+.top {
+  background-color: red;
+  float: right;
+}
+
+h3 {
+  color:orange;
+  background-color: gray;
+  border: 2px dotted white;
+  margin-left: 100px;
+  margin-right: 302px;
+}
+
+img {
+  border: 5px solid #46b2ba;
+  width: 200px;
+  height: 200px;
+  margin-left: 100px;
+}
