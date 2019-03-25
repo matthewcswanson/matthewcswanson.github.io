@@ -4493,6 +4493,7 @@ body {
   background: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
+  background: linear-gradient(45deg, #ffffff, #149dcc);
 }
 .cid-rlwRh2E44S .image-block {
   margin: auto;
