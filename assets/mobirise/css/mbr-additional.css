@@ -4489,15 +4489,6 @@ body {
 .cid-rlxFGxRppZ blockquote {
   color: #767676;
 }
-.cid-rlwQBSLEbo {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rlwQBSLEbo .mbr-text,
-.cid-rlwQBSLEbo blockquote {
-  color: #767676;
-}
 .cid-rlwRh2E44S {
   background: #ffffff;
   padding-top: 15px;
@@ -4521,6 +4512,15 @@ body {
   .cid-rlwRh2E44S .image-block {
     width: 100% !important;
   }
+}
+.cid-rlwQBSLEbo {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rlwQBSLEbo .mbr-text,
+.cid-rlwQBSLEbo blockquote {
+  color: #767676;
 }
 .cid-rlwX52sL2d {
   padding-top: 0px;
